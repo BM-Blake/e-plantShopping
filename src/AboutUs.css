@@ -1,5 +1,6 @@
 .about-us-container {
     width: 1000px;
+    max-width: 75%;
     /* margin: 0 auto; */
     /* padding: 20px; */
     /* background-color: red; */
@@ -11,6 +12,7 @@
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
+    justify-content: center;
   }
   
   .about-us-description {
