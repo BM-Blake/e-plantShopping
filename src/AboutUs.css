@@ -3,7 +3,6 @@
     /* margin: 0 auto; */
     /* padding: 20px; */
     /* background-color: red; */
-    text-align: justify;
   }
   
   .about-us-heading {
@@ -11,7 +10,7 @@
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
-    justify-content: center;
+    text-align: center;
   }
   
   .about-us-description {
